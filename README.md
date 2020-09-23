@@ -1,2 +1,2 @@
 # $ npm install 
-# $ npm run jsons:server
+# $ npm run json:server
